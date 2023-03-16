@@ -1,0 +1,27 @@
+
+.rodape{
+    background-color: aliceblue;
+    flex-direction: column;
+    align-items: center;
+}
+.rodape-container{
+
+    width: 940px;
+    margin: 0 auto;
+}
+.social{
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.redes-sociais{
+    width: 50px;
+    width: 50px;
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    color: #868686;
+}

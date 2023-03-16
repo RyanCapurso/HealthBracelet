@@ -1,0 +1,13 @@
+.tabela{
+    display: flex;
+    flex-flow: column nowrap;
+    width: 940px;
+    overflow-y:scroll;
+    height: 680px;
+}
+.celulas{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+}

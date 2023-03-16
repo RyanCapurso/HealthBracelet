@@ -1,0 +1,38 @@
+.conteudo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    height: 720px;
+}
+.container{
+    width: 940px;
+    margin: 0 auto;
+    background-color: #F3F3F3;
+}
+.filtro{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px 20px;
+}
+.filtrar{
+    font-size: 18px;
+}
+#pesquisa{
+    padding: 5px 10px;
+    border: solid 1px #000000;
+    border-radius: 25px;
+    font-size: 14px ;
+    width: 55px;
+}
+.enviar{
+    font-size: 14px;
+    border: solid 2px #008AFC;
+    background-color: #F3F3F3;
+    border-radius: 25px;
+    padding: 5px 10px;
+}
+
+
+

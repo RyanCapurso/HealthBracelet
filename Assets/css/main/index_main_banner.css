@@ -1,0 +1,32 @@
+.conteudo{
+    width: 100%;
+    background-color: #F3F3F3;
+}
+.container{
+    margin: 0 auto;
+    width: 940px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column nowrap;
+}
+.apresentacao{
+    position: relative;
+}
+.banner{
+    width: 940px;
+}
+.banner-titulo, .banner-descricao{
+    color: #ffffff;
+    font-size: 48px;
+    position: absolute;
+}
+.banner-titulo{
+    top: 40px;
+    left: 40px;
+    font-weight: bold;
+}
+.banner-descricao{
+    top: 100px;
+    left: 40px;
+}

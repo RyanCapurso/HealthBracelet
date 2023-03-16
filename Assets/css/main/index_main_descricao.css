@@ -1,0 +1,17 @@
+.area-descricao{
+    background-color: #008AFC;
+    color: #ffffff;
+    padding: 10px 20px;
+}
+.titulo-descricao{
+    font-size: 36px;
+    font-weight: bold;
+}
+.descricao{
+    font-size: 18px;
+    padding-top: 16px;
+    text-align: justify;
+    font-weight: 400;
+    padding-bottom: 5px;
+    line-height: 20px;
+}

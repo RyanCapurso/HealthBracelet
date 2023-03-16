@@ -1,0 +1,48 @@
+
+.auxilio{
+    background-color: #1747E6;
+    width: 100%;
+}
+.auxilio-container{
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    color: #ffffff;
+}
+.auxilio-titulo{
+    padding: 15px 0;
+    font-size: 40px;
+    font-weight: bold;
+}
+.auxilio-atendimento{
+    font-size: 20px;
+}
+.auxilio-itens, .auxilio-icon-flex{
+    display: flex;
+    flex-flow: column nowrap;
+}
+.auxilio-icon-flex{
+    padding: 20px 0;
+    flex-direction: row;
+    gap: 50px;
+}
+.auxilio-icons{
+    width: 100px;
+    width: 100px;
+}
+.auxlio-card{
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+.auxilio-itens-descricao{
+    display: flex;
+    justify-content: center;
+    flex-flow: row nowrap;
+}
+.auxilio-descricao{
+    padding: 10px 0;
+    font-size: 20px;
+    width: 250px;
+    text-align: justify;
+}
